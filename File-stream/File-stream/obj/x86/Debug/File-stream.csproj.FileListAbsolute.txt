@@ -1,0 +1,21 @@
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\bin\Debug\File-stream.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\bin\Debug\File-stream.pdb
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.csproj.GenerateResource.Cache
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.exe
+C:\Users\Junaid Micheal\Documents\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.pdb
+F:\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.exe
+F:\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.pdb
+F:\Visual Studio 2010\Projects\File-stream\File-stream\bin\Debug\File-stream.exe
+F:\Visual Studio 2010\Projects\File-stream\File-stream\bin\Debug\File-stream.pdb
+F:\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Visual Studio 2010\Projects\File-stream\File-stream\obj\x86\Debug\File-stream.csproj.GenerateResource.Cache
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\obj\x86\Debug\File-stream.exe
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\obj\x86\Debug\File-stream.pdb
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\bin\Debug\File-stream.exe
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\bin\Debug\File-stream.pdb
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Junaid Micheal\Desktop\File-stream\File-stream\obj\x86\Debug\File-stream.csproj.GenerateResource.Cache
